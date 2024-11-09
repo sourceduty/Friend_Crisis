@@ -11,7 +11,7 @@ In addition to offering advice, Friend Crisis creates realistic simulations of c
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
-<br
+<br>
 [Sociology](https://github.com/sourceduty/Sociology)
 <br>
 [Social Sync](https://github.com/sourceduty/Social_Sync)
