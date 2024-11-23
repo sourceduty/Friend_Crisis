@@ -11,6 +11,10 @@ In addition to offering advice, Friend Crisis creates realistic simulations of c
 ![Merry Crisis](https://github.com/user-attachments/assets/ae80358f-0fce-47a3-9954-ded6987cf252)
 
 #
+
+> Alex: "*It looks like people.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
