@@ -8,7 +8,7 @@
 In addition to offering advice, Friend Crisis creates realistic simulations of conversations or scenarios to help users visualize potential outcomes and prepare for real-life discussions. For instance, if a user is nervous about confronting a friend who made a hurtful comment, Friend Crisis might simulate a possible dialogue. It could include an example like, “You: Hey, I wanted to talk about what you said the other day. It really hurt me, and I wanted to understand where it was coming from. Friend: Oh no, I didn’t realize it came across that way. I’m so sorry.” This gives the user a sense of how the conversation might flow and equips them with language to express themselves effectively. By tailoring advice to the specific crisis and personalities involved, Friend Crisis empowers users to repair and strengthen their friendships in a thoughtful and constructive way.
 
 #
-### Christ Crisis
+### Crisis on Christmas
 
 ![Merry Crisis](https://github.com/user-attachments/assets/ae80358f-0fce-47a3-9954-ded6987cf252)
 
